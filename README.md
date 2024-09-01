@@ -1,5 +1,5 @@
-**Project Title: 
-Analyzing the Correlation Between GDP and Video Game Sales**
+
+**Analyzing the Correlation Between GDP and Video Game Sales**
 
 **Project Description**
 
